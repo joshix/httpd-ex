@@ -9,20 +9,10 @@
     <managingEditor>j@joshix.com (Josh Wood)</managingEditor>
     <webMaster>j@joshix.com (Josh Wood)</webMaster>
     <copyright>Josh Wood. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 03 Sep 2017 21:49:56 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2016 04:18:56 -0800</lastBuildDate>
     
 	<atom:link href="http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Migration report</title>
-      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/2017/09/03/migration-report/</link>
-      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
-      <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/2017/09/03/migration-report/</guid>
-      <description>History Many of the words and pictures here have been around long enough to stumble mumbling through generations of domain names and server styles, from hand-crafted hardware hooked to home DSL, to containers shipped to the Cloud. This site is like your grandmother&amp;rsquo;s sofa. It gets moved more often than it gets updated.
-This is the boring part of that story, outlining all the different ways much the same content has been constructed and delivered.</description>
-    </item>
     
     <item>
       <title>Migration brief</title>
