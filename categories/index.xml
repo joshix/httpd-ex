@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Josh Wood</title>
+    <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/</link>
+    <description>Recent content in Categories on Josh Wood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>j@joshix.com (Josh Wood)</managingEditor>
+    <webMaster>j@joshix.com (Josh Wood)</webMaster>
+    <copyright>Josh Wood. All rights reserved.</copyright>
+    
+	<atom:link href="http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drawing</title>
+      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/drawing/</link>
+      <pubDate>Sun, 12 May 2013 12:30:00 +0000</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/drawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eightball</title>
+      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/eightball/</link>
+      <pubDate>Sun, 12 May 2013 12:30:00 +0000</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/eightball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illustration Friday</title>
+      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/illustration-friday/</link>
+      <pubDate>Sun, 12 May 2013 12:30:00 +0000</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/illustration-friday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iphone</title>
+      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/iphone/</link>
+      <pubDate>Sun, 12 May 2013 12:30:00 +0000</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/categories/iphone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
