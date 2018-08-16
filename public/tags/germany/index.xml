@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Germany on Josh Wood</title>
-    <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/germany/</link>
+    <link>http://jxx.joshix.com/tags/germany/</link>
     <description>Recent content in Germany on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Sun, 26 Nov 2006 08:14:00 +0000</lastBuildDate>
     
-	<atom:link href="http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jxx.joshix.com/tags/germany/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Guardhouse, Attendorn</title>
-      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/2006/11/26/guardhouse-attendorn/</link>
+      <link>http://jxx.joshix.com/2006/11/26/guardhouse-attendorn/</link>
       <pubDate>Sun, 26 Nov 2006 08:14:00 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/2006/11/26/guardhouse-attendorn/</guid>
+      <guid>http://jxx.joshix.com/2006/11/26/guardhouse-attendorn/</guid>
       <description>  </description>
     </item>
     
