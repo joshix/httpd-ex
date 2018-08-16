@@ -62,7 +62,7 @@
     <item>
       <title>Caddy</title>
       <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/caddy/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/caddy/</guid>
       <description></description>
@@ -107,7 +107,7 @@
     <item>
       <title>Coreos</title>
       <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/coreos/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/coreos/</guid>
       <description></description>
@@ -188,7 +188,7 @@
     <item>
       <title>Hugo</title>
       <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/hugo/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/hugo/</guid>
       <description></description>
@@ -227,6 +227,15 @@
       <pubDate>Mon, 19 Jan 2009 02:47:53 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/josh-wood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/kubernetes/</link>
+      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     
@@ -350,7 +359,7 @@
     <item>
       <title>Rkt</title>
       <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/rkt/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/rkt/</guid>
       <description></description>
@@ -389,6 +398,15 @@
       <pubDate>Mon, 27 Nov 2006 03:22:00 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/serverless/</link>
+      <pubDate>Sun, 03 Sep 2017 21:49:56 -0800</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://httpd-ex-apachesrv.6923.rh-us-east-1.openshiftapps.com/tags/serverless/</guid>
       <description></description>
     </item>
     
