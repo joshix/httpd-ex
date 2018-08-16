@@ -153,6 +153,13 @@ if (!doNotTrack) {
 
 <p>However, producing HTML files and uploading them to a managed hosting service reduces cost and increases reliability. No more maintaining a durable cluster, nor even a machine, nor even so much as an HTTPd for this site. You could almost call it &ldquo;serverless&rdquo;.</p>
 
+<h2 id="out-of-the-frying-pan">Out of the frying pan&hellip;</h2>
+
+<p>onto OpenShift? This content is currently a test bed for OpenShift builds, running on OSO. When I push changes, the container is rebuilt and redeployed.
+TODO: 1) replace httpd with caddy container for the base image for the build
+2) create (submodule?) repo for hugo&rsquo;s html finished product (triggers come from here)
+3) eventually, a pipline where a change in master of jxnu SOURCE repo triggers builds that run hugo, then build a new deployment from the html product. so that hugo runs on OpenShift, too.</p>
+
 <hr />
 
 <h2 id="notes">Notes</h2>
