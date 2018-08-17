@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubernetes on Josh Wood</title>
-    <link>http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/tags/kubernetes/</link>
+    <link>http://jxx.joshix.com/tags/kubernetes/</link>
     <description>Recent content in Kubernetes on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Mon, 03 Sep 2018 21:49:56 -0800</lastBuildDate>
     
-	<atom:link href="http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jxx.joshix.com/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migration report</title>
-      <link>http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/2018/09/03/migration-report/</link>
+      <link>http://jxx.joshix.com/2018/09/03/migration-report/</link>
       <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/2018/09/03/migration-report/</guid>
+      <guid>http://jxx.joshix.com/2018/09/03/migration-report/</guid>
       <description>History Many of the words and pictures here have been around long enough to stumble mumbling through generations of domain names and server styles, from hand-crafted hardware hooked to home DSL, to containers shipped to the Cloud. This site is like your grandmother&amp;rsquo;s sofa. It gets moved more often than it gets updated.
 This is the boring part of that story, outlining all the different ways much the same content has been constructed and delivered.</description>
     </item>
