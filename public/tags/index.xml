@@ -62,7 +62,7 @@
     <item>
       <title>Caddy</title>
       <link>http://jxx.joshix.com/tags/caddy/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/caddy/</guid>
       <description></description>
@@ -107,7 +107,7 @@
     <item>
       <title>Coreos</title>
       <link>http://jxx.joshix.com/tags/coreos/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/coreos/</guid>
       <description></description>
@@ -188,7 +188,7 @@
     <item>
       <title>Hugo</title>
       <link>http://jxx.joshix.com/tags/hugo/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/hugo/</guid>
       <description></description>
@@ -227,6 +227,15 @@
       <pubDate>Mon, 19 Jan 2009 02:47:53 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/josh-wood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>http://jxx.joshix.com/tags/kubernetes/</link>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://jxx.joshix.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     
@@ -281,6 +290,15 @@
       <pubDate>Mon, 15 Jun 2009 21:37:28 -0700</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/omb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openshift</title>
+      <link>http://jxx.joshix.com/tags/openshift/</link>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://jxx.joshix.com/tags/openshift/</guid>
       <description></description>
     </item>
     
@@ -350,7 +368,7 @@
     <item>
       <title>Rkt</title>
       <link>http://jxx.joshix.com/tags/rkt/</link>
-      <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/rkt/</guid>
       <description></description>
@@ -389,6 +407,15 @@
       <pubDate>Mon, 27 Nov 2006 03:22:00 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
       <guid>http://jxx.joshix.com/tags/sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>http://jxx.joshix.com/tags/serverless/</link>
+      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
+      <author>j@joshix.com (Josh Wood)</author>
+      <guid>http://jxx.joshix.com/tags/serverless/</guid>
       <description></description>
     </item>
     
