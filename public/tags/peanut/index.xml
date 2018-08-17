@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peanut on Josh Wood</title>
-    <link>http://jxx.joshix.com/tags/peanut/</link>
+    <link>http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/tags/peanut/</link>
     <description>Recent content in Peanut on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Fri, 25 Sep 2009 05:35:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jxx.joshix.com/tags/peanut/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/tags/peanut/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scrub Jay</title>
-      <link>http://jxx.joshix.com/2009/09/25/scrub-jay/</link>
+      <link>http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/2009/09/25/scrub-jay/</link>
       <pubDate>Fri, 25 Sep 2009 05:35:00 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://jxx.joshix.com/2009/09/25/scrub-jay/</guid>
+      <guid>http://nginx-example-nginx-template-test.6923.rh-us-east-1.openshiftapps.com/2009/09/25/scrub-jay/</guid>
       <description> Western Scrub Jay (Aphelocoma californica)  </description>
     </item>
     
