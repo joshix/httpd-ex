@@ -9,19 +9,10 @@
     <managingEditor>j@joshix.com (Josh Wood)</managingEditor>
     <webMaster>j@joshix.com (Josh Wood)</webMaster>
     <copyright>Josh Wood. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Aug 2018 10:00:46 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2016 04:18:56 -0800</lastBuildDate>
     
 	<atom:link href="http://jxx.joshix.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Red Hat Convergence Denver</title>
-      <link>http://jxx.joshix.com/2018/08/23/convergence-denver/</link>
-      <pubDate>Thu, 23 Aug 2018 10:00:46 -0700</pubDate>
-      <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://jxx.joshix.com/2018/08/23/convergence-denver/</guid>
-      <description>Kubernetes and OpenShift: Same, Same, Different</description>
-    </item>
     
     <item>
       <title>Migration brief</title>
