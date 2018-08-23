@@ -2,34 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Josh Wood</title>
-    <link>http://jxx.joshix.com/tags/hugo/</link>
+    <link>jxx.joshix.com/tags/hugo/</link>
     <description>Recent content in Hugo on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>j@joshix.com (Josh Wood)</managingEditor>
     <webMaster>j@joshix.com (Josh Wood)</webMaster>
     <copyright>Josh Wood. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Sep 2018 21:49:56 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2016 04:18:56 -0800</lastBuildDate>
     
-	<atom:link href="http://jxx.joshix.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="jxx.joshix.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Migration report</title>
-      <link>http://jxx.joshix.com/2018/09/03/migration-report/</link>
-      <pubDate>Mon, 03 Sep 2018 21:49:56 -0800</pubDate>
-      <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://jxx.joshix.com/2018/09/03/migration-report/</guid>
-      <description>History Many of the words and pictures here have been around long enough to stumble mumbling through generations of domain names and server styles, from hand-crafted hardware hooked to home DSL, to containers shipped to the Cloud. This site is like your grandmother&amp;rsquo;s sofa. It gets moved more often than it gets updated.
-This is the boring part of that story, outlining all the different ways much the same content has been constructed and delivered.</description>
-    </item>
     
     <item>
       <title>Migration brief</title>
-      <link>http://jxx.joshix.com/2016/06/12/migration-brief/</link>
+      <link>jxx.joshix.com/2016/06/12/migration-brief/</link>
       <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://jxx.joshix.com/2016/06/12/migration-brief/</guid>
+      <guid>jxx.joshix.com/2016/06/12/migration-brief/</guid>
       <description>&lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://github.com/joshix/jxnu&#34;&gt;jxnu&lt;/a&gt;&amp;rdquo; project put the site&amp;rsquo;s old content atop new infrastructure. This is a mostly-migrated version of the once and future joshix.com:&lt;/p&gt;
 
 &lt;ul&gt;
