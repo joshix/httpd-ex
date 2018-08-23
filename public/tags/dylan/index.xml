@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dylan on Josh Wood</title>
-    <link>jxx.joshix.com/tags/dylan/</link>
+    <link>http://jxx.joshix.com/tags/dylan/</link>
     <description>Recent content in Dylan on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Wed, 07 Feb 2007 01:32:28 -0800</lastBuildDate>
     
-	<atom:link href="jxx.joshix.com/tags/dylan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jxx.joshix.com/tags/dylan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plan 9 /sys/man/1/weather</title>
-      <link>jxx.joshix.com/project/weatherman/</link>
+      <link>http://jxx.joshix.com/project/weatherman/</link>
       <pubDate>Wed, 07 Feb 2007 01:32:28 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>jxx.joshix.com/project/weatherman/</guid>
+      <guid>http://jxx.joshix.com/project/weatherman/</guid>
       <description>NAME weather &amp;ndash; know which way the wind blows
 SYNOPSIS weather [ air ] [ st ]
 DESCRIPTION Weather prints the local conditions and seven-day forecast most recently reported at the US airport with the three–letter location identifier air. Given a two–letter US state abbreviation st instead, weather prints a table of air location identifiers known for st.

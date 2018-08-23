@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eightball on Josh Wood</title>
-    <link>jxx.joshix.com/categories/eightball/</link>
+    <link>http://jxx.joshix.com/categories/eightball/</link>
     <description>Recent content in Eightball on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Sun, 12 May 2013 12:30:00 +0000</lastBuildDate>
     
-	<atom:link href="jxx.joshix.com/categories/eightball/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jxx.joshix.com/categories/eightball/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Illustration Friday: Future</title>
-      <link>jxx.joshix.com/2013/05/12/illustration-friday-future/</link>
+      <link>http://jxx.joshix.com/2013/05/12/illustration-friday-future/</link>
       <pubDate>Sun, 12 May 2013 12:30:00 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>jxx.joshix.com/2013/05/12/illustration-friday-future/</guid>
+      <guid>http://jxx.joshix.com/2013/05/12/illustration-friday-future/</guid>
       <description> Signs point to Yes  </description>
     </item>
     

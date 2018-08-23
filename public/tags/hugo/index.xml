@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Josh Wood</title>
-    <link>jxx.joshix.com/tags/hugo/</link>
+    <link>http://jxx.joshix.com/tags/hugo/</link>
     <description>Recent content in Hugo on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Sun, 12 Jun 2016 04:18:56 -0800</lastBuildDate>
     
-	<atom:link href="jxx.joshix.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jxx.joshix.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migration brief</title>
-      <link>jxx.joshix.com/2016/06/12/migration-brief/</link>
+      <link>http://jxx.joshix.com/2016/06/12/migration-brief/</link>
       <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>jxx.joshix.com/2016/06/12/migration-brief/</guid>
+      <guid>http://jxx.joshix.com/2016/06/12/migration-brief/</guid>
       <description>&lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://github.com/joshix/jxnu&#34;&gt;jxnu&lt;/a&gt;&amp;rdquo; project put the site&amp;rsquo;s old content atop new infrastructure. This is a mostly-migrated version of the once and future joshix.com:&lt;/p&gt;
 
 &lt;ul&gt;
