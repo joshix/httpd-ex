@@ -29,16 +29,7 @@
 &lt;li&gt;packaged in a discrete &lt;a href=&#34;https://github.com/appc/spec&#34;&gt;App Container Image (ACI)&lt;/a&gt; based on &lt;a href=&#34;https://github.com/joshix/caddybox&#34;&gt;caddybox&lt;/a&gt;,&lt;/li&gt;
 &lt;li&gt;executed by the &lt;a href=&#34;https://coreos.com/rkt/&#34;&gt;&lt;code&gt;rkt&lt;/code&gt; container engine&lt;/a&gt;,&lt;/li&gt;
 &lt;li&gt;running on &lt;a href=&#34;https://coreos.com/os/docs/latest/&#34;&gt;CoreOS Linux&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;todo&#34;&gt;TODO:&lt;/h2&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Use &lt;code&gt;rkt&lt;/code&gt; instead of docker.&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Cluster-ify with Kubernetes &lt;del&gt;and &amp;ldquo;&lt;a href=&#34;https://kubernetes.io/docs/getting-started-guides/rkt/&#34;&gt;rktnetes&lt;/a&gt;&amp;ldquo;&lt;/del&gt;&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To be continued&amp;hellip;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

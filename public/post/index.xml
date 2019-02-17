@@ -38,16 +38,7 @@
 &lt;li&gt;packaged in a discrete &lt;a href=&#34;https://github.com/appc/spec&#34;&gt;App Container Image (ACI)&lt;/a&gt; based on &lt;a href=&#34;https://github.com/joshix/caddybox&#34;&gt;caddybox&lt;/a&gt;,&lt;/li&gt;
 &lt;li&gt;executed by the &lt;a href=&#34;https://coreos.com/rkt/&#34;&gt;&lt;code&gt;rkt&lt;/code&gt; container engine&lt;/a&gt;,&lt;/li&gt;
 &lt;li&gt;running on &lt;a href=&#34;https://coreos.com/os/docs/latest/&#34;&gt;CoreOS Linux&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;todo&#34;&gt;TODO:&lt;/h2&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Use &lt;code&gt;rkt&lt;/code&gt; instead of docker.&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Cluster-ify with Kubernetes &lt;del&gt;and &amp;ldquo;&lt;a href=&#34;https://kubernetes.io/docs/getting-started-guides/rkt/&#34;&gt;rktnetes&lt;/a&gt;&amp;ldquo;&lt;/del&gt;&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;To be continued&amp;hellip;&lt;/p&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -64,8 +55,7 @@
 &lt;em&gt;Pause&lt;/em&gt;.&lt;br /&gt;
 &lt;strong&gt;S&lt;/strong&gt;: OK. So&amp;hellip; I&amp;rsquo;ll just name all the kinds of oysters I know, and when I hit on one you have, you tap your foot twice.&lt;br /&gt;
 &lt;strong&gt;T&lt;/strong&gt;: I&amp;rsquo;d need to go get a list.&lt;br /&gt;
-&lt;strong&gt;S&lt;/strong&gt;: Probably.
-&lt;/p&gt;</description>
+&lt;strong&gt;S&lt;/strong&gt;: Probably.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -181,8 +171,7 @@ The awk | sed filter pipeline at the center of any useful improvement was taken 
 &lt;p&gt;I stood on the rail and looked over the stone wall of the courtyard&lt;br /&gt;
 Through the crosshairs of the crucifix atop the blue dome of the church&lt;br /&gt;
 I saw people moving in the house-lights on the hillside&lt;br /&gt;
-They seemed like signals
-&lt;/p&gt;</description>
+They seemed like signals&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -211,8 +200,7 @@ a confusion of identity of me&lt;br /&gt;
 for my brother who is not me&lt;br /&gt;
 but is often mistaken for me&lt;/p&gt;
 
-&lt;p&gt;he’s the one who can play guitar
-&lt;/p&gt;</description>
+&lt;p&gt;he’s the one who can play guitar&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -227,7 +215,10 @@ but is often mistaken for me&lt;/p&gt;
 most begin with much the same choreography&lt;br /&gt;
 a geometry of sky folding closed and Sound&lt;br /&gt;
 thrown out of a day’s dance with the wind&lt;br /&gt;
-when Silence cuts in.&lt;/p&gt;</description>
+when Silence cuts in.&lt;/p&gt;
+
+&lt;p&gt;Stars pick out jasmine’s shadow negative against&lt;br /&gt;
+their black matting, their paper backing, where&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -240,8 +231,7 @@ when Silence cuts in.&lt;/p&gt;</description>
 
 &lt;p&gt;triple ribbon is&lt;br /&gt;
 efficient because it&lt;br /&gt;
-abandoned hue
-&lt;/p&gt;</description>
+abandoned hue&lt;/p&gt;</description>
     </item>
     
   </channel>
