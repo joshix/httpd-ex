@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Hat on Josh Wood</title>
-    <link>http://jxx.joshix.com/tags/red-hat/</link>
+    <link>https://jxx.joshix.com/tags/red-hat/</link>
     <description>Recent content in Red Hat on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Thu, 23 Aug 2018 10:44:46 -0700</lastBuildDate>
     
-	<atom:link href="http://jxx.joshix.com/tags/red-hat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jxx.joshix.com/tags/red-hat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Red Hat Convergence Denver</title>
-      <link>http://jxx.joshix.com/2018/08/23/convergence-denver/</link>
+      <link>https://jxx.joshix.com/2018/08/23/convergence-denver/</link>
       <pubDate>Thu, 23 Aug 2018 10:44:46 -0700</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>http://jxx.joshix.com/2018/08/23/convergence-denver/</guid>
+      <guid>https://jxx.joshix.com/2018/08/23/convergence-denver/</guid>
       <description>Kubernetes and OpenShift: Same, Same, Different</description>
     </item>
     

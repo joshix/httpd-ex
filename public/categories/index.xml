@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Josh Wood</title>
-    <link>http://jxx.joshix.com/categories/</link>
+    <link>https://jxx.joshix.com/categories/</link>
     <description>Recent content in Categories on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>j@joshix.com (Josh Wood)</webMaster>
     <copyright>Josh Wood. All rights reserved.</copyright>
     
-	<atom:link href="http://jxx.joshix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jxx.joshix.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
