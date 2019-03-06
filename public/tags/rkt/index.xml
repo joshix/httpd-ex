@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rkt on Josh Wood</title>
-    <link>https://nginx-jxx.joshix.com/tags/rkt/</link>
+    <link>https://jxx.joshix.com/tags/rkt/</link>
     <description>Recent content in Rkt on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Sun, 12 Jun 2016 04:18:56 -0800</lastBuildDate>
     
-	<atom:link href="https://nginx-jxx.joshix.com/tags/rkt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jxx.joshix.com/tags/rkt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migration brief</title>
-      <link>https://nginx-jxx.joshix.com/2016/06/12/migration-brief/</link>
+      <link>https://jxx.joshix.com/2016/06/12/migration-brief/</link>
       <pubDate>Sun, 12 Jun 2016 04:18:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>https://nginx-jxx.joshix.com/2016/06/12/migration-brief/</guid>
+      <guid>https://jxx.joshix.com/2016/06/12/migration-brief/</guid>
       <description>&lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://github.com/joshix/jxnu&#34;&gt;jxnu&lt;/a&gt;&amp;rdquo; project put the site&amp;rsquo;s old content atop new infrastructure. This is a mostly-migrated version of the once and future joshix.com:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://nginx-jxx.joshix.com/projects/</link>
+      <link>https://jxx.joshix.com/projects/</link>
       <pubDate>Tue, 01 Dec 2009 15:55:56 -0800</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>https://nginx-jxx.joshix.com/projects/</guid>
+      <guid>https://jxx.joshix.com/projects/</guid>
       <description>Containers &amp;amp;c.  Caddybox: The Caddy web server in a container Jxnu: Markdown source and Hugo configuration to build this site  Plan 9  Discount: Plan 9 build support and documentation for David Parsons’s Discount, a compiler for the Markdown formatting syntax. Source for Discount and for my fork for Plan 9 build maintenance is available on GitHub. Mb (neé µb): Plan 9 tools for Twitter/StatusNet microblogging See also /n/sources/contrib/josh/  Penicillin farm: Old code covered in mold Carefully neglected to various stages of decomposition.</description>
     </item>
     

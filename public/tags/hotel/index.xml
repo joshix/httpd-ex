@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hotel on Josh Wood</title>
-    <link>https://nginx-jxx.joshix.com/tags/hotel/</link>
+    <link>https://jxx.joshix.com/tags/hotel/</link>
     <description>Recent content in Hotel on Josh Wood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,15 +11,15 @@
     <copyright>Josh Wood. All rights reserved.</copyright>
     <lastBuildDate>Mon, 30 Oct 2006 20:23:00 +0000</lastBuildDate>
     
-	<atom:link href="https://nginx-jxx.joshix.com/tags/hotel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jxx.joshix.com/tags/hotel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hotel Attalos, Athens</title>
-      <link>https://nginx-jxx.joshix.com/2006/10/30/hotel-attalos-athens/</link>
+      <link>https://jxx.joshix.com/2006/10/30/hotel-attalos-athens/</link>
       <pubDate>Mon, 30 Oct 2006 20:23:00 +0000</pubDate>
       <author>j@joshix.com (Josh Wood)</author>
-      <guid>https://nginx-jxx.joshix.com/2006/10/30/hotel-attalos-athens/</guid>
+      <guid>https://jxx.joshix.com/2006/10/30/hotel-attalos-athens/</guid>
       <description> </description>
     </item>
     
